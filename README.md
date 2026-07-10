@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Pro Gym
+- Equipe: [Ayhan Everton](https://github.com/ayhandev), [Gustavo Ivo](https://github.com/gustaIvo14), [José Cassiano](https://github.com/jcassiano33)
+- Descrição: Pro Gym é um sistema voltado para o gerenciamento de academias
+- Github: https://github.com/jcassiano33/Pro-Gym
+
 ### Sistema de Monitoramento do Nível de Água em Cisternas 
 - Equipe: Letícia Lima, Clara Francelino
 - Descrição: O Sistema de Monitoramento do Nível de Água em Cisternas permite acompanhar a quantidade de água armazenada de forma simples e eficiente.
